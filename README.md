@@ -3,7 +3,7 @@
 #### Ứng dụng từ khoá hot
 Ứng dụng có một màn hình chính để thể hiện giả lập danh sách các từ khóa hot mà user tìm kiếm trên trang web thương mại điện tử Tiki.vn. 
 #### Từ khoá hot
-[![Hot-Keyword-Photo.png](https://uphinhnhanh.com/images/2018/10/05/Hot-Keyword-Photo.png)](https://uphinhnhanh.com/image/8KN535)
+[![Hot-Keyword-Photo.png](https://salt.tikicdn.com/ts/upload/a1/dc/e2/26ea3b652ba6f561491a5c928c5bb62d.png)](https://salt.tikicdn.com/ts/upload/a1/dc/e2/26ea3b652ba6f561491a5c928c5bb62d.png)
 
 Dữ liệu từ khoá hot được lấy về từ [https://tiki-mobile.s3-ap-southeast-1.amazonaws.com/ios/keywords.json](https://tiki-mobile.s3-ap-southeast-1.amazonaws.com/ios/keywords.json)
 1 từ khoá hot sẽ có nội dung và hình ảnh được thể hiện giống như UI:
