@@ -25,7 +25,7 @@ Lưu ý phần hiển thị nội dung từ khoá có các rules sau:
 
 ### Yêu cầu:
 
-> Ứng dụng được viết bằng Swift 4 trên Xcode 9.4 trở lên (không dùng bản beta).
+> Ứng dụng được viết bằng Swift 4 trên Xcode bản mới nhất.
 
 > Tổ chức cấu trúc cho tầng networking.
 
